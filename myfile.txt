@@ -1,4 +1,4 @@
-Cả merge và rebase đều là tích hợp lịch sử lại với nhau nhưng đặc trưng thì khác nhau.
-
-sflknfdlgvndfjdbjkfvdlfk
-
+Lịch sử sẽ giống thế này. Vì đã chỉnh sửa nơi xung đột trong merge lần này, nên 
+merge commit sẽ ghi lại thay đổi đó sẽ được tạo mới. Và, đầu của master sẽ di 
+chuyển đến đó. Loại merge thế này là không phải fast-forward mà được gọi là 
+non fast-forward merge.
