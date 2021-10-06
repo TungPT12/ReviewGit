@@ -2,3 +2,6 @@ Lịch sử sẽ giống thế này. Vì đã chỉnh sửa nơi xung đột tro
 merge commit sẽ ghi lại thay đổi đó sẽ được tạo mới. Và, đầu của master sẽ di 
 chuyển đến đó. Loại merge thế này là không phải fast-forward mà được gọi là 
 non fast-forward merge.
+
+Hi tung
+
