@@ -9,5 +9,4 @@ Merge và Rebase thì tùy theo phương châm áp dụng của nhóm mà chia r
 Ví dụ, nếu áp dụng để hợp nhất hóa lịch sử, thì sẽ phân ra sử dụng như sau:
 
 Trường hợp đưa code mới nhất của branch tích hợp vào branch chủ đề thì sử dụng rebase.
-Trường hợp đưa branch chủ đề vào branch tích hợp, thì trước hết hãy rebase rồi merge.
 
