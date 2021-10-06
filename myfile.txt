@@ -1,1 +1,1 @@
-Hello Git
+hi there this is the first time i push this file on github
