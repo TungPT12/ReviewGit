@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hi tung
-=======
 Cả merge và rebase đều là tích hợp lịch sử lại với nhau nhưng đặc trưng thì khác nhau.
 
 Merge
@@ -13,4 +10,4 @@ Ví dụ, nếu áp dụng để hợp nhất hóa lịch sử, thì sẽ phân 
 
 Trường hợp đưa code mới nhất của branch tích hợp vào branch chủ đề thì sử dụng rebase.
 Trường hợp đưa branch chủ đề vào branch tích hợp, thì trước hết hãy rebase rồi merge.
->>>>>>> 152f6a5 (change)
+
