@@ -1,5 +1,3 @@
-hi there this is the first time i push this file on github
-
 Độ khó:☆☆
 
 Giới thiệu lựa chọn squash, xem như là merge kiểu đặc biệt.
