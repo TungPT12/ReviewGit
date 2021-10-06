@@ -1,4 +1,5 @@
 hi there this is the first time i push this file on github
+
 Độ khó:☆☆
 
 Giới thiệu lựa chọn squash, xem như là merge kiểu đặc biệt.
@@ -11,4 +12,3 @@ squash option
 Trường hợp sử dụng chính
 
 Tổng hợp commit trong topic branch thành một rồi tích hợp vào branch tích hợp
-
