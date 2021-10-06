@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 hi tung
+
+Cả merge và rebase đều là tích hợp lịch sử lại với nhau nhưng đặc trưng thì khác nhau.
+
+Merge
+Lịch sử nội dung thay đổi vẫn còn lại nhưng sẽ trở nên phức tạp hơn.
+Rebase
+Lịch sử sẽ trở nên đơn giản nhưng nội dung thay đổi từ commit ban đầu sẽ bị thay đổi. Cho nên cũng có trường hợp rơi vào tình trạng commit gốc không hoạt động.
+Merge và Rebase thì tùy theo phương châm áp dụng của nhóm mà chia ra sử dụng.
+
+Ví dụ, nếu áp dụng để hợp nhất hóa lịch sử, thì sẽ phân ra sử dụng như sau:
+
+Trường hợp đưa code mới nhất của branch tích hợp vào branch chủ đề thì sử dụng rebase.
+Trường hợp đưa branch chủ đề vào branch tích hợp, thì trước hết hãy rebase rồi merge.
+>>>>>>> 152f6a5 (change)
