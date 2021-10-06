@@ -1,13 +1,1 @@
-Độ khó:☆☆
-
-Giới thiệu lựa chọn squash, xem như là merge kiểu đặc biệt.
-
-Khi chỉ định lựa chọn này rồi merge branch thì commit mà tổng hợp tất cả commit của branch đó sẽ được thêm vào.
-
-squash option
-
-squash option
-Trường hợp sử dụng chính
-
-Tổng hợp commit trong topic branch thành một rồi tích hợp vào branch tích hợp
-git 
+hi tung
